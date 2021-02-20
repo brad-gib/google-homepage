@@ -11,3 +11,5 @@ and so I had to fix that by moving it down 10px and to the
 left 10px. I had a similar problem with the header. At the
 end of it however, it looks quite similar to the actual
 Google Homepage so I am happy with what I did on this project.
+
+Live Preview: https://brad-gib.github.io/google-homepage/
